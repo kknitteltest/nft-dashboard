@@ -1,8 +1,9 @@
 NFT Dashboard
 
-This application was created by watching [Ultimate NFT Programming Tutorial - FULL COURSE
+This application was created by watching 
+[Ultimate NFT Programming Tutorial - FULL COURSE
 ](https://www.youtube.com/watch?v=tBMk1iZa85Y)
-Ultimate NFT Programming Tutorial - FULL COURSE
+
 https://www.youtube.com/watch?v=tBMk1iZa85Y
 
 
