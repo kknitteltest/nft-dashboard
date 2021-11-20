@@ -4,7 +4,7 @@ This application was created by watching
 [Ultimate NFT Programming Tutorial - FULL COURSE
 ](https://www.youtube.com/watch?v=tBMk1iZa85Y)
 
-https://www.youtube.com/watch?v=tBMk1iZa85Y
+
 
 
 Progress:
